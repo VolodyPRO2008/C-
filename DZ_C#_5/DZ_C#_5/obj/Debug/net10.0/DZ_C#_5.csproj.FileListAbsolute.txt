@@ -1,0 +1,14 @@
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\bin\Debug\net10.0\DZ_C#_5.exe
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\bin\Debug\net10.0\DZ_C#_5.deps.json
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\bin\Debug\net10.0\DZ_C#_5.runtimeconfig.json
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\bin\Debug\net10.0\DZ_C#_5.dll
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\bin\Debug\net10.0\DZ_C#_5.pdb
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\DZ_C#_5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\DZ_C#_5.AssemblyInfoInputs.cache
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\DZ_C#_5.AssemblyInfo.cs
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\DZ_C#_5.csproj.CoreCompileInputs.cache
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\DZ_C#_5.dll
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\refint\DZ_C#_5.dll
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\DZ_C#_5.pdb
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\DZ_C#_5.genruntimeconfig.cache
+C:\Users\14kal\source\repos\DZ_C#_5\DZ_C#_5\obj\Debug\net10.0\ref\DZ_C#_5.dll
